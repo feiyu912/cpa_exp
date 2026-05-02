@@ -1,4 +1,4 @@
-# CLI Proxy API
+# Claude Code + CLI Proxy API 使用指南
 
 [English](README.md) | 中文
 
